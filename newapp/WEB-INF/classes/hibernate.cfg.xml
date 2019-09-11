@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+    <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+    <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+    <property name="hibernate.connection.url">jdbc:mysql://184.154.186.249/:3306/inyungu_store</property>
+    <property name="hibernate.connection.username">inyungu_storeUsr</property>
+    <property name="hibernate.connection.password">itdc@sys=2</property>
+    <mapping resource="com/store/config/hibernate.hbm.xml"/>
+  </session-factory>
+</hibernate-configuration>

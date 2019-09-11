@@ -1,0 +1,1 @@
+[19-Dec-2015 00:16:26 UTC] PHP Fatal error:  Using $this when not in object context in /home/inyungu/public_html/themes/abound/views/personalInfo/index.php on line 2

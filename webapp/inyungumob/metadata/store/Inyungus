@@ -1,0 +1,44 @@
+{
+    "type": "jsonstore",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "autoLoad": true,
+        "autoSync": true,
+        "designer|userClassName": "Inyungus",
+        "model": "Inyungu",
+        "storeId": "Inyungus"
+    },
+    "designerId": "f4908096-950d-42a0-9963-b38c09645af2",
+    "cn": [
+        {
+            "type": "Ext.data.proxy.Ajax",
+            "reference": {
+                "name": "proxy",
+                "type": "object"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "url": "/inyungu/index.php?r=sencha"
+            },
+            "designerId": "5779a95c-9b97-4e1e-8142-79dc88c2ead4",
+            "cn": [
+                {
+                    "type": "Ext.data.reader.Json",
+                    "reference": {
+                        "name": "reader",
+                        "type": "object"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "rootProperty": "data"
+                    },
+                    "designerId": "f53e8dbe-c25b-4704-a552-413c8064177d"
+                }
+            ]
+        }
+    ]
+}

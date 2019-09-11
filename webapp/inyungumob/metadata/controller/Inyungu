@@ -1,0 +1,44 @@
+{
+    "type": "Ext.app.Controller",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "Inyungu",
+        "models": [
+            "Inyungu"
+        ],
+        "stores": [
+            "Inyungus"
+        ],
+        "views": [
+            "InyunguList"
+        ]
+    },
+    "designerId": "85b64074-0cce-4a58-bdc5-7639ee955b3f",
+    "cn": [
+        {
+            "type": "controlleraction",
+            "reference": {
+                "name": "listeners",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|controlQuery": "list",
+                "designer|params": [
+                    "target"
+                ],
+                "designer|targetType": null,
+                "fn": "ListView",
+                "implHandler": [
+                    ""
+                ],
+                "name": "show"
+            },
+            "designerId": "fdd3c166-bf3a-47bb-ae80-5dd249e30420"
+        }
+    ]
+}

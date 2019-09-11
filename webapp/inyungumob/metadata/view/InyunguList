@@ -1,0 +1,31 @@
+{
+    "type": "Ext.dataview.List",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|initialView": true,
+        "designer|userClassName": "InyunguList",
+        "store": "Inyungus"
+    },
+    "designerId": "7eb2c90d-349f-42ec-8602-1b546271d46c",
+    "cn": [
+        {
+            "type": "Ext.XTemplate",
+            "reference": {
+                "name": "itemTpl",
+                "type": "object"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|displayName": "itemTpl",
+                "implHandler": [
+                    "<div>{productname}</div>"
+                ]
+            },
+            "designerId": "0454e2a9-252e-4278-a8ce-165a26cd51a3"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "Ext.app.Application",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "controllers": [
+            "Products",
+            "PeopleSearch"
+        ],
+        "name": "Inyungu",
+        "views": [
+            "DetailPanel",
+            "ListContainer",
+            "MainNav"
+        ]
+    },
+    "designerId": "application"
+}

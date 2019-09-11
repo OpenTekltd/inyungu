@@ -1,0 +1,4 @@
+[22-Sep-2014 17:59:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/inyungu/public_html/inyungu/ozekisms/SMS_responder_1.php on line 77
+[22-Sep-2014 18:03:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/inyungu/public_html/inyungu/ozekisms/SMS_responder_1.php on line 77
+[22-Sep-2014 18:04:54 UTC] PHP Notice:  Undefined offset: 1 in /home/inyungu/public_html/inyungu/ozekisms/SMS_responder_1.php on line 12
+[22-Sep-2014 18:04:54 UTC] PHP Notice:  Undefined offset: 2 in /home/inyungu/public_html/inyungu/ozekisms/SMS_responder_1.php on line 13

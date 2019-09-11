@@ -1,0 +1,56 @@
+{
+    "type": "jsonstore",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "autoLoad": true,
+        "designer|userClassName": "Products",
+        "model": "Product",
+        "storeId": "Products"
+    },
+    "designerId": "43a0a656-b38d-4146-8316-8ba6bf9fde60",
+    "cn": [
+        {
+            "type": "Ext.data.proxy.Ajax",
+            "reference": {
+                "name": "proxy",
+                "type": "object"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "url": "http://www.inyungu.com/index.php?r=sencha"
+            },
+            "designerId": "4689dd22-0274-4a5c-82cc-ceddf1d885a4",
+            "cn": [
+                {
+                    "type": "Ext.data.reader.Json",
+                    "reference": {
+                        "name": "reader",
+                        "type": "object"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "rootProperty": "data"
+                    },
+                    "designerId": "276e3c5d-1996-440f-b460-2c977fed5201"
+                }
+            ]
+        },
+        {
+            "type": "Ext.util.Grouper",
+            "reference": {
+                "name": "grouper",
+                "type": "object"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "direction": "DESC",
+                "property": "creationdate"
+            },
+            "designerId": "6146cf84-d4a5-4080-b68e-cc3d16e37407"
+        }
+    ]
+}

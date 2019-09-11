@@ -1,0 +1,120 @@
+{
+    "type": "Ext.app.Controller",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "PeopleSearch",
+        "models": [
+            "Product"
+        ],
+        "stores": [
+            "Products"
+        ]
+    },
+    "designerId": "1ce0ca8f-79c8-43a9-810e-2a690e5ddec0",
+    "cn": [
+        {
+            "type": "controlleraction",
+            "reference": {
+                "name": "listeners",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|controlQuery": "mainnav #searchField",
+                "designer|targetType": "Ext.field.Search",
+                "fn": "search",
+                "implHandler": [
+                    "\r",
+                    "var value = textfield.getValue(),\t// Search value\r",
+                    "\tstore = Ext.getStore('Products');\t// People store\r",
+                    "\r",
+                    "// Clear current filter if less than 2\r",
+                    "if (value.length === 0) {\r",
+                    "\tstore.clearFilter();\r",
+                    "}\r",
+                    "\r",
+                    "// Search term must be at least 2 characters\r",
+                    "if (value.length < 2) {\r",
+                    "\treturn;\r",
+                    "}\r",
+                    "\r",
+                    "// Clear any current filters\r",
+                    "store.clearFilter();\r",
+                    "\r",
+                    "// Check if a value is provided\r",
+                    "if (value) {\r",
+                    "\r",
+                    "    // Spit value to get multiple terms\r",
+                    "    var terms = value.split(' ');\r",
+                    "\r",
+                    "    // Convert each search string into regex\r",
+                    "    var regexps = [];\r",
+                    "    Ext.each(terms, function(term) {\r",
+                    "\r",
+                    "        // Ensure term is not space and at least 2 characters\r",
+                    "        if (term && term.length > 1) {\r",
+                    "            regexps.push(new RegExp(term, 'i')); // Case-insensitive regex\r",
+                    "        }\r",
+                    "\r",
+                    "    });\r",
+                    "\r",
+                    "    // Filter records\r",
+                    "    store.filter(function(record) {\r",
+                    "\r",
+                    "        var matches = [];\r",
+                    "\r",
+                    "        // Check each of the regular expressions\r",
+                    "        Ext.each(regexps, function(regex) {\r",
+                    "\r",
+                    "\t\t\tvar match = record.get('productname').match(regex) || record.get('province').match(regex) || record.get('district').match(regex) || record.get('umurenge').match(regex) || record.get('firstname').match(regex) || record.get('lastname').match(regex);\r",
+                    "            matches.push(match);\r",
+                    "\r",
+                    "        });\r",
+                    "\r",
+                    "        // If nothing was found, return false to not show\r",
+                    "        if (regexps.length > 1 && matches.indexOf(false) != -1) {\r",
+                    "            return false;\r",
+                    "        } else {\r",
+                    "            // Else return to show\r",
+                    "            return matches[0];\r",
+                    "        }\r",
+                    "\r",
+                    "    });\r",
+                    "\r",
+                    "}\r",
+                    ""
+                ],
+                "name": "keyup"
+            },
+            "designerId": "aeea2ae5-ced5-461f-8354-72b4782cb831"
+        },
+        {
+            "type": "controlleraction",
+            "reference": {
+                "name": "listeners",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|controlQuery": "searchfield",
+                "designer|targetType": "Ext.field.Search",
+                "fn": "clearSearch",
+                "implHandler": [
+                    "\r",
+                    "// Get store\r",
+                    "var store = Ext.getStore('Products');\r",
+                    "\r",
+                    "// Clear filter\r",
+                    "store.clearFilter();\r",
+                    ""
+                ],
+                "name": "clearicontap"
+            },
+            "designerId": "38bb9f09-2f44-444d-93f0-b4daee5bdd11"
+        }
+    ]
+}

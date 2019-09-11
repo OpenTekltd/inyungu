@@ -1,0 +1,194 @@
+{
+    "type": "Ext.data.Model",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "Inyungu"
+    },
+    "designerId": "c4401188-78a9-4291-9d9f-06839530af34",
+    "cn": [
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "id"
+            },
+            "designerId": "d72a196d-2fd3-4334-a2b3-7fb38d2b52cd"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "productname"
+            },
+            "designerId": "1950e46d-28fa-4156-ac65-35b94990d10b"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "umurenge"
+            },
+            "designerId": "59ff4849-e064-4018-872f-6e4b8651d813"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "firstname"
+            },
+            "designerId": "86c908ad-3b53-4b37-873c-11f3e3391f85"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "totalamount"
+            },
+            "designerId": "b6454838-71e6-4959-90ed-0b44d7a3320d"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "currentprice"
+            },
+            "designerId": "5e55684e-2f09-4545-86e1-d06f45f7d5ad"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "quantity"
+            },
+            "designerId": "deb6a25c-687d-4778-befd-05f6bd477088"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "mesure"
+            },
+            "designerId": "2013a9ec-1b92-49c3-9c60-10c68a8ad105"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "creationdate"
+            },
+            "designerId": "c8cf510c-ef61-4d4f-ba3f-161271af90d0"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "province"
+            },
+            "designerId": "d3956f09-638d-4dbc-8913-0df94d75c3f0"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "district"
+            },
+            "designerId": "b3edfd74-73d0-413a-8e8d-c3e1ed82d996"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "umudugudu"
+            },
+            "designerId": "afedd62c-43a6-485a-ba8e-f87c68af1b81"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "akagali"
+            },
+            "designerId": "6634669d-b4dd-47c6-8c4e-47f6545f7204"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "detail"
+            },
+            "designerId": "0851707d-54a5-4305-bbc1-10d5f30871f5"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "telephone"
+            },
+            "designerId": "ded15a93-c97d-4021-9677-f712e367e2c2"
+        }
+    ]
+}

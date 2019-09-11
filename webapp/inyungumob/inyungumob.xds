@@ -1,0 +1,54 @@
+{
+    "name": "inyungumob",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "4.0.1.45",
+            "frameworkVersion": "2.3.1.410"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "iPhone",
+                "builtIn": true,
+                "height": 480,
+                "width": 320
+            },
+            "viewportOrientation": "portrait"
+        },
+        "urlPrefix": "http://localhost/inyungu/inyungumob/",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true
+    },
+    "xdsVersion": "3.0.1",
+    "xdsBuild": 1343,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000004,
+    "framework": "touch23",
+    "viewOrderMap": {
+        "view": [
+            "34a43a03-0c60-4aea-9963-1117d54077af"
+        ],
+        "store": [
+            "f4908096-950d-42a0-9963-b38c09645af2"
+        ],
+        "controller": [
+            "85b64074-0cce-4a58-bdc5-7639ee955b3f"
+        ],
+        "model": [
+            "c4401188-78a9-4291-9d9f-06839530af34"
+        ],
+        "resource": [
+            "4c0183b3-2658-4dc7-887e-a7b797df6d4f",
+            "5a39b34a-16ad-4b6c-aefe-283d40142684"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

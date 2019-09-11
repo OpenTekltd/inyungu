@@ -1,0 +1,192 @@
+{
+    "type": "Ext.tab.Panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|initialView": true,
+        "designer|userAlias": null,
+        "designer|userClassName": "mainView",
+        "fullscreen": true
+    },
+    "designerId": "34a43a03-0c60-4aea-9963-1117d54077af",
+    "cn": [
+        {
+            "type": "Ext.Container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "iconCls": "info",
+                "layout": "card",
+                "title": "Products"
+            },
+            "designerId": "7c765cae-ed8c-408e-9407-a441a8a1ab60",
+            "cn": [
+                {
+                    "type": "Ext.dataview.List",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "designer|displayName": "ProductsList",
+                        "itemId": "mylist",
+                        "store": "Inyungus"
+                    },
+                    "designerId": "7eb2c90d-349f-42ec-8602-1b546271d46c",
+                    "cn": [
+                        {
+                            "type": "Ext.XTemplate",
+                            "reference": {
+                                "name": "itemTpl",
+                                "type": "object"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "designer|displayName": "itemTpl",
+                                "implHandler": [
+                                    "<div>{productname}</div>"
+                                ]
+                            },
+                            "designerId": "0454e2a9-252e-4278-a8ce-165a26cd51a3"
+                        },
+                        {
+                            "type": "basiceventbinding",
+                            "reference": {
+                                "name": "listeners",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "fn": "onMylistSelect",
+                                "implHandler": [
+                                    "var currentTab = this.getActiveItem();\r",
+                                    "var Details = currentTab.down('panel');\r",
+                                    "Details.setRecord(record);\r",
+                                    "currentTab.setActiveItem(Details);\r",
+                                    "var backButton = Ext.getCmp('backButton');\r",
+                                    "backButton.show();"
+                                ],
+                                "name": "select"
+                            },
+                            "designerId": "b760231c-dc9d-49fc-adda-cfd1d1913faa"
+                        }
+                    ]
+                },
+                {
+                    "type": "Ext.Panel",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "designer|displayName": "Details"
+                    },
+                    "designerId": "c12cac0d-5e6b-4894-9317-21b996bbe9cb",
+                    "cn": [
+                        {
+                            "type": "Ext.XTemplate",
+                            "reference": {
+                                "name": "tpl",
+                                "type": "object"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "designer|displayName": "tpl",
+                                "implHandler": [
+                                    "<div>id :{id}</div>\r",
+                                    "<div class=\"inyunguProductame\">Igihingwa :{productname}</div>\r",
+                                    "<div class=\"taskName\">Igiciro :{currentprice}</div>\r",
+                                    "<div class=\"taskName\">Ingano :{quantity}</div>\r",
+                                    "<div class=\"taskName\">Ingiro :{mesure}</div>\r",
+                                    "<div>Igiciro cyose :{totalamount}</div>\r",
+                                    "<div>Amazina :{firstname}</div>\r",
+                                    "<div>Intara :{province}</div>\r",
+                                    "<div>Akarere :{district}</div>\r",
+                                    "<div>Akagali :{akagali}</div>\r",
+                                    "<div>Umudugudu :{umudugudu}</div>\r",
+                                    "<div>Telephoni :{telephone}</div>\r",
+                                    "<div>Italiki :{creationdate}</div>\r",
+                                    "<div>Muri make :{detail}</div>\r",
+                                    ""
+                                ]
+                            },
+                            "designerId": "5c839edc-26a2-40c6-8235-1c7d973cff41"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Ext.tab.Bar",
+            "reference": {
+                "name": "tabBar",
+                "type": "object"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "docked": "bottom"
+            },
+            "designerId": "47b21708-efb2-4b31-aa0d-653e4262bca7"
+        },
+        {
+            "type": "Ext.Toolbar",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "docked": "top",
+                "title": "Inyungu"
+            },
+            "designerId": "45cc4c6c-6eae-401b-9e87-17756699008c",
+            "cn": [
+                {
+                    "type": "Ext.Button",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "designer|uiInterfaceName": "back",
+                        "hidden": true,
+                        "id": "backButton",
+                        "itemId": "mybutton",
+                        "text": "Back",
+                        "ui": "back"
+                    },
+                    "designerId": "d84a5ba5-38f8-4a11-ac04-cc19f3a65266",
+                    "cn": [
+                        {
+                            "type": "basiceventbinding",
+                            "reference": {
+                                "name": "listeners",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "fn": "onBackButtonTap",
+                                "implHandler": [
+                                    "var currentTab = this.getActiveItem();\r",
+                                    "currentTab.setActiveItem(0);\r",
+                                    "button.hide();"
+                                ],
+                                "name": "tap"
+                            },
+                            "designerId": "44849543-30b7-49f4-b8d8-926f33abdae5"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

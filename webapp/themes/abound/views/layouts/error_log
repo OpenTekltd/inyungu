@@ -1,0 +1,4 @@
+[19-Dec-2015 00:17:00 UTC] PHP Fatal error:  Using $this when not in object context in /home/inyungu/public_html/themes/abound/views/layouts/column2.php on line 2
+[19-Dec-2015 00:17:00 UTC] PHP Fatal error:  Using $this when not in object context in /home/inyungu/public_html/themes/abound/views/layouts/column1.php on line 2
+[19-Dec-2015 00:17:00 UTC] PHP Fatal error:  Class 'Yii' not found in /home/inyungu/public_html/themes/abound/views/layouts/main.php on line 16
+[19-Dec-2015 00:17:01 UTC] PHP Fatal error:  Class 'Yii' not found in /home/inyungu/public_html/themes/abound/views/layouts/tpl_navigation.php on line 3

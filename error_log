@@ -1,0 +1,421 @@
+[09-Jun-2017 10:35:02 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 10:35:55 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 10:39:06 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 10:39:27 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 10:41:09 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 10:41:22 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 10:42:06 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 10:42:32 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 10:42:58 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 10:45:03 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 10:53:40 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 10:54:35 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 11:00:58 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 11:03:00 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 11:05:19 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 11:11:27 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 11:11:47 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 11:17:45 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 11:20:21 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 11:20:33 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 11:20:53 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 11:21:30 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/valide.php on line 11
+[09-Jun-2017 11:22:25 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/valide.php on line 11
+[09-Jun-2017 11:22:49 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 11:23:09 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 11:23:27 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/valide.php on line 11
+[09-Jun-2017 11:24:13 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/valide.php on line 11
+[09-Jun-2017 11:32:32 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 11:33:24 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/inscription.php on line 149
+[09-Jun-2017 11:33:46 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/valide.php on line 11
+[09-Jun-2017 11:46:28 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/valide.php on line 11
+[09-Jun-2017 11:46:35 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/valide.php on line 11
+[09-Jun-2017 11:52:17 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/valide.php on line 11
+[09-Jun-2017 12:04:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/order.php:169) in /home/inyungu/public_html/order.php on line 186
+[09-Jun-2017 12:07:01 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/valide.php on line 11
+[14-Jun-2017 07:36:29 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/inyungu/public_html/order.php on line 179
+[14-Jun-2017 07:37:34 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/inyungu/public_html/order.php on line 179
+[14-Jun-2017 07:39:28 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/inyungu/public_html/order.php on line 190
+[14-Jun-2017 07:44:33 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/inyungu/public_html/order.php on line 192
+[14-Jun-2017 07:47:00 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/inyungu/public_html/order.php on line 193
+[14-Jun-2017 07:47:48 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/inyungu/public_html/order.php on line 193
+[14-Jun-2017 07:48:34 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/inyungu/public_html/order.php on line 188
+[14-Jun-2017 07:51:25 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/inyungu/public_html/order.php on line 189
+[14-Jun-2017 08:24:31 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home/inyungu/public_html/inscription.php on line 128
+[19-Jun-2017 09:17:49 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 09:17:49 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 09:17:49 America/Chicago] PHP Warning:  include(): Failed opening 'sender.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 09:18:14 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 09:18:14 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 09:18:14 America/Chicago] PHP Warning:  include(): Failed opening 'sender.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 09:18:14 America/Chicago] PHP Fatal error:  Class 'Sender' not found in /home/inyungu/public_html/order.php on line 218
+[19-Jun-2017 09:19:13 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 09:19:13 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 09:19:13 America/Chicago] PHP Warning:  include(): Failed opening 'sender.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 09:19:43 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 09:19:43 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 09:19:43 America/Chicago] PHP Warning:  include(): Failed opening 'sender.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 09:19:43 America/Chicago] PHP Fatal error:  Class 'Sender' not found in /home/inyungu/public_html/order.php on line 218
+[19-Jun-2017 09:59:47 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 09:59:47 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 09:59:47 America/Chicago] PHP Warning:  include(): Failed opening 'sender.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:00:01 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:00:01 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:00:01 America/Chicago] PHP Warning:  include(): Failed opening 'sender.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:00:01 America/Chicago] PHP Fatal error:  Class 'Sender' not found in /home/inyungu/public_html/order.php on line 246
+[19-Jun-2017 10:04:53 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:04:53 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:04:53 America/Chicago] PHP Warning:  include(): Failed opening 'sender.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:05:06 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:05:06 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:05:06 America/Chicago] PHP Warning:  include(): Failed opening 'sender.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:05:06 America/Chicago] PHP Fatal error:  Class 'Sender' not found in /home/inyungu/public_html/order.php on line 246
+[19-Jun-2017 10:06:51 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:06:51 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:06:51 America/Chicago] PHP Warning:  include(): Failed opening 'sender.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:07:01 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:07:01 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:07:01 America/Chicago] PHP Warning:  include(): Failed opening 'sender.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:07:01 America/Chicago] PHP Fatal error:  Class 'Sender' not found in /home/inyungu/public_html/order.php on line 246
+[19-Jun-2017 10:08:21 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:08:21 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:08:21 America/Chicago] PHP Warning:  include(): Failed opening 'sender.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:08:32 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:08:32 America/Chicago] PHP Warning:  include(sender.php): failed to open stream: No such file or directory in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:08:32 America/Chicago] PHP Warning:  include(): Failed opening 'sender.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/inyungu/public_html/order.php on line 196
+[19-Jun-2017 10:08:32 America/Chicago] PHP Fatal error:  Class 'Sender' not found in /home/inyungu/public_html/order.php on line 244
+[05-Jul-2017 10:30:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/login.php:41) in /home/inyungu/public_html/login.php on line 47
+[05-Jul-2017 10:30:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/login.php:41) in /home/inyungu/public_html/login.php on line 47
+[05-Jul-2017 10:32:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/login.php:41) in /home/inyungu/public_html/login.php on line 47
+[05-Jul-2017 10:32:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/login.php:41) in /home/inyungu/public_html/login.php on line 47
+[05-Jul-2017 10:33:45 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/admin.php:124
+Stack trace:
+#0 /home/inyungu/public_html/admin.php(124): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/admin.php on line 124
+[05-Jul-2017 10:34:20 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/admin.php:124
+Stack trace:
+#0 /home/inyungu/public_html/admin.php(124): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/admin.php on line 124
+[05-Jul-2017 10:49:12 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/admin.php:124
+Stack trace:
+#0 /home/inyungu/public_html/admin.php(124): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/admin.php on line 124
+[05-Jul-2017 10:50:49 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/admin.php:124
+Stack trace:
+#0 /home/inyungu/public_html/admin.php(124): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/admin.php on line 124
+[05-Jul-2017 10:50:54 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/admin.php:124
+Stack trace:
+#0 /home/inyungu/public_html/admin.php(124): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/admin.php on line 124
+[08-Jul-2017 01:21:10 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/admin.php:124
+Stack trace:
+#0 /home/inyungu/public_html/admin.php(124): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/admin.php on line 124
+[08-Jul-2017 01:22:00 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/admin.php:124
+Stack trace:
+#0 /home/inyungu/public_html/admin.php(124): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/admin.php on line 124
+[11-Jul-2017 02:52:20 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/admin.php:124
+Stack trace:
+#0 /home/inyungu/public_html/admin.php(124): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/admin.php on line 124
+[11-Jul-2017 03:33:13 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/admin.php:124
+Stack trace:
+#0 /home/inyungu/public_html/admin.php(124): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/admin.php on line 124
+[11-Jul-2017 03:48:05 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/admin.php:126
+Stack trace:
+#0 /home/inyungu/public_html/admin.php(126): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/admin.php on line 126
+[11-Jul-2017 10:44:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/inyungu/public_html/admin.php on line 201
+[11-Jul-2017 10:44:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/inyungu/public_html/admin.php on line 201
+[11-Jul-2017 10:50:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/inyungu/public_html/admin.php on line 201
+[11-Jul-2017 10:51:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/inyungu/public_html/admin.php on line 201
+[12-Jul-2017 03:27:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/login.php:41) in /home/inyungu/public_html/login.php on line 47
+[12-Jul-2017 03:28:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/login.php:41) in /home/inyungu/public_html/login.php on line 47
+[12-Jul-2017 03:28:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/login.php:41) in /home/inyungu/public_html/login.php on line 47
+[12-Jul-2017 03:32:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/login.php:41) in /home/inyungu/public_html/login.php on line 47
+[12-Jul-2017 03:33:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/inyungu/public_html/login.php on line 48
+[12-Jul-2017 03:38:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/login.php:41) in /home/inyungu/public_html/login.php on line 47
+[12-Jul-2017 04:24:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/inyungu/public_html/admin.php on line 199
+[12-Jul-2017 05:57:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/inyungu/public_html/server.php on line 8
+[12-Jul-2017 05:59:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/inyungu/public_html/server.php on line 8
+[12-Jul-2017 06:02:08 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/inyungu/public_html/server.php on line 8
+[12-Jul-2017 06:06:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/inyungu/public_html/server.php on line 8
+[12-Jul-2017 06:07:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/inyungu/public_html/server.php on line 8
+[12-Jul-2017 06:17:39 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/inyungu/public_html/server.php on line 8
+[12-Jul-2017 06:39:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/inyungu/public_html/server.php on line 8
+[12-Jul-2017 06:43:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/inyungu/public_html/server.php on line 8
+[13-Jul-2017 10:55:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/inyungu/public_html/server.php on line 8
+[13-Jul-2017 10:57:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/inyungu/public_html/server.php on line 8
+[23-Aug-2017 08:14:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'ibanga' (T_STRING) in /home/inyungu/public_html/order.php on line 221
+[23-Aug-2017 08:15:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'ibanga' (T_STRING) in /home/inyungu/public_html/order.php on line 221
+[23-Aug-2017 08:19:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'ibanga' (T_STRING) in /home/inyungu/public_html/order.php on line 221
+[23-Aug-2017 08:22:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'ibanga' (T_STRING) in /home/inyungu/public_html/order.php on line 207
+[23-Aug-2017 08:28:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'ibanga' (T_STRING) in /home/inyungu/public_html/order.php on line 221
+[23-Aug-2017 08:30:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'ibanga' (T_STRING) in /home/inyungu/public_html/order.php on line 221
+[23-Aug-2017 08:36:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'ibanga' (T_STRING) in /home/inyungu/public_html/order.php on line 213
+[23-Aug-2017 08:41:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'ibanga' (T_STRING) in /home/inyungu/public_html/order.php on line 213
+[23-Aug-2017 09:39:49 America/Chicago] PHP Parse error:  syntax error, unexpected '$fone' (T_VARIABLE) in /home/inyungu/public_html/order.php on line 23
+[23-Aug-2017 09:45:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$fone' (T_VARIABLE) in /home/inyungu/public_html/order.php on line 23
+[23-Aug-2017 10:42:32 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/admin.php:373
+Stack trace:
+#0 /home/inyungu/public_html/admin.php(373): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/admin.php on line 373
+[23-Aug-2017 10:46:39 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[23-Aug-2017 10:51:07 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[23-Aug-2017 10:53:15 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[23-Aug-2017 10:54:42 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[23-Aug-2017 10:59:41 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[24-Aug-2017 03:13:22 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[24-Aug-2017 03:16:14 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[24-Aug-2017 06:11:05 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/server.php on line 44
+[24-Aug-2017 06:19:03 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/server.php on line 44
+[24-Aug-2017 06:21:55 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/server.php on line 44
+[24-Aug-2017 06:23:02 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/server.php on line 44
+[24-Aug-2017 06:26:30 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/server.php on line 44
+[24-Aug-2017 06:28:04 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/server.php on line 44
+[24-Aug-2017 06:30:35 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/server.php on line 44
+[24-Aug-2017 06:33:48 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/server.php on line 44
+[24-Aug-2017 06:39:15 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/inyungu/public_html/server.php on line 44
+[24-Aug-2017 07:07:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:372) in /home/inyungu/public_html/index.php on line 381
+[24-Aug-2017 07:21:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:372) in /home/inyungu/public_html/index.php on line 381
+[24-Aug-2017 07:25:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:372) in /home/inyungu/public_html/index.php on line 381
+[24-Aug-2017 07:27:56 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:27:59 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:28:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:28:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:28:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:28:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:28:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:36:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:36:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:40:57 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:41:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:41:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:41:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:41:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:43:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:43:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:44:34 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:48:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:53:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:55:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:55:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 07:55:46 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 08:02:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 08:06:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 08:14:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 08:23:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 08:29:15 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 08:33:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 08:35:11 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 08:39:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 08:47:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 08:49:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 10:21:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 10:21:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 10:26:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 10:26:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 10:26:52 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 10:26:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 10:26:57 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/inyungu/public_html/index.php on line 383
+[24-Aug-2017 10:29:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:372) in /home/inyungu/public_html/index.php on line 382
+[24-Aug-2017 10:34:37 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[24-Aug-2017 10:35:07 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[25-Aug-2017 03:14:32 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[25-Aug-2017 03:49:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:372) in /home/inyungu/public_html/index.php on line 381
+[25-Aug-2017 03:50:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:372) in /home/inyungu/public_html/index.php on line 381
+[25-Aug-2017 03:50:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:372) in /home/inyungu/public_html/index.php on line 381
+[25-Aug-2017 03:53:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:372) in /home/inyungu/public_html/index.php on line 381
+[25-Aug-2017 04:07:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:372) in /home/inyungu/public_html/index.php on line 381
+[25-Aug-2017 04:49:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:372) in /home/inyungu/public_html/index.php on line 381
+[25-Aug-2017 04:59:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:372) in /home/inyungu/public_html/index.php on line 381
+[25-Aug-2017 04:59:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:372) in /home/inyungu/public_html/index.php on line 382
+[25-Aug-2017 05:00:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:372) in /home/inyungu/public_html/index.php on line 381
+[25-Aug-2017 05:00:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:372) in /home/inyungu/public_html/index.php on line 382
+[25-Aug-2017 05:02:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:86) in /home/inyungu/public_html/index.php on line 95
+[25-Aug-2017 05:02:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:86) in /home/inyungu/public_html/index.php on line 96
+[25-Aug-2017 05:02:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:86) in /home/inyungu/public_html/index.php on line 95
+[25-Aug-2017 05:02:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:86) in /home/inyungu/public_html/index.php on line 96
+[25-Aug-2017 05:03:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:86) in /home/inyungu/public_html/index.php on line 95
+[25-Aug-2017 05:03:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:86) in /home/inyungu/public_html/index.php on line 96
+[25-Aug-2017 05:03:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:86) in /home/inyungu/public_html/index.php on line 95
+[25-Aug-2017 05:03:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:86) in /home/inyungu/public_html/index.php on line 96
+[25-Aug-2017 05:04:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:86) in /home/inyungu/public_html/index.php on line 95
+[25-Aug-2017 05:04:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:86) in /home/inyungu/public_html/index.php on line 95
+[25-Aug-2017 05:04:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:86) in /home/inyungu/public_html/index.php on line 95
+[25-Aug-2017 05:08:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:86) in /home/inyungu/public_html/index.php on line 95
+[25-Aug-2017 05:10:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:86) in /home/inyungu/public_html/index.php on line 95
+[25-Aug-2017 05:12:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/index.php:86) in /home/inyungu/public_html/index.php on line 95
+[25-Aug-2017 05:17:38 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/inyungu/public_html/index.php on line 3
+[25-Aug-2017 05:17:50 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/inyungu/public_html/index.php on line 3
+[25-Aug-2017 05:49:36 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[25-Aug-2017 07:07:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'login' (T_STRING) in /home/inyungu/public_html/index.php on line 15
+[25-Aug-2017 07:10:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'login' (T_STRING) in /home/inyungu/public_html/index.php on line 15
+[25-Aug-2017 07:12:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'login' (T_STRING) in /home/inyungu/public_html/index.php on line 15
+[25-Aug-2017 07:38:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'login' (T_STRING) in /home/inyungu/public_html/index.php on line 15
+[25-Aug-2017 07:49:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'login' (T_STRING) in /home/inyungu/public_html/index.php on line 15
+[25-Aug-2017 08:33:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:95) in /home/inyungu/public_html/inscription.php on line 119
+[25-Aug-2017 09:33:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$abd' (T_VARIABLE) in /home/inyungu/public_html/inscription.php on line 15
+[25-Aug-2017 09:43:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:15) in /home/inyungu/public_html/inscription.php on line 22
+[25-Aug-2017 09:43:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:15) in /home/inyungu/public_html/inscription.php on line 22
+[25-Aug-2017 09:44:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:15) in /home/inyungu/public_html/inscription.php on line 22
+[25-Aug-2017 09:44:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:15) in /home/inyungu/public_html/inscription.php on line 22
+[25-Aug-2017 09:45:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:15) in /home/inyungu/public_html/inscription.php on line 22
+[25-Aug-2017 09:53:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:15) in /home/inyungu/public_html/inscription.php on line 23
+[25-Aug-2017 09:55:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:15) in /home/inyungu/public_html/inscription.php on line 22
+[25-Aug-2017 10:01:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/inscription.php on line 55
+[25-Aug-2017 10:02:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:15) in /home/inyungu/public_html/inscription.php on line 21
+[25-Aug-2017 10:03:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:15) in /home/inyungu/public_html/inscription.php on line 22
+[25-Aug-2017 10:07:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:15) in /home/inyungu/public_html/inscription.php on line 22
+[25-Aug-2017 10:07:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:15) in /home/inyungu/public_html/inscription.php on line 22
+[25-Aug-2017 10:07:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:15) in /home/inyungu/public_html/inscription.php on line 22
+[25-Aug-2017 10:07:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:15) in /home/inyungu/public_html/inscription.php on line 22
+[25-Aug-2017 10:10:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:15) in /home/inyungu/public_html/inscription.php on line 23
+[25-Aug-2017 10:13:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:14) in /home/inyungu/public_html/inscription.php on line 23
+[25-Aug-2017 10:15:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:14) in /home/inyungu/public_html/inscription.php on line 21
+[25-Aug-2017 10:23:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:14) in /home/inyungu/public_html/inscription.php on line 21
+[25-Aug-2017 10:44:12 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/inyungu/public_html/inscription.php on line 21
+[25-Aug-2017 10:48:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inyungu/public_html/inscription.php:14) in /home/inyungu/public_html/inscription.php on line 21
+[25-Aug-2017 11:13:35 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/inyungu/public_html/order.php on line 79
+[25-Aug-2017 12:10:45 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[25-Aug-2017 12:14:35 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[25-Aug-2017 12:15:11 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[30-Aug-2017 06:12:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/inyungu/public_html/customer_page.php on line 321
+[30-Aug-2017 06:12:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/inyungu/public_html/customer_page.php on line 321
+[30-Aug-2017 06:13:23 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/inyungu/public_html/customer_page.php on line 321
+[30-Aug-2017 06:15:05 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/inyungu/public_html/customer_page.php on line 292
+[30-Aug-2017 06:16:06 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/inyungu/public_html/customer_page.php on line 84
+[30-Aug-2017 06:17:08 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/inyungu/public_html/customer_page.php on line 321
+[30-Aug-2017 06:17:12 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/inyungu/public_html/customer_page.php on line 321
+[30-Aug-2017 06:17:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/inyungu/public_html/customer_page.php on line 321
+[30-Aug-2017 08:56:06 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[30-Aug-2017 10:32:46 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[30-Aug-2017 11:04:57 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[30-Aug-2017 11:08:39 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[30-Aug-2017 11:08:40 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[31-Aug-2017 05:56:02 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[31-Aug-2017 05:56:06 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:200
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(200): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 200
+[31-Aug-2017 05:56:58 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:201
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(201): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 201
+[31-Aug-2017 05:57:06 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/inyungu/public_html/sendsms.php:201
+Stack trace:
+#0 /home/inyungu/public_html/sendsms.php(201): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/inyungu/public_html/sendsms.php on line 201
+[31-Aug-2017 11:30:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/inyungu/public_html/sendsms.php on line 17
+[31-Aug-2017 11:30:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/inyungu/public_html/sendsms.php on line 17
+[31-Aug-2017 11:31:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/inyungu/public_html/sendsms.php on line 17
+[31-Aug-2017 11:32:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/inyungu/public_html/sendsms.php on line 17
+[31-Aug-2017 11:32:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/sendsms.php on line 17
+[31-Aug-2017 11:32:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/sendsms.php on line 17
+[31-Aug-2017 11:33:59 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/sendsms.php on line 17
+[31-Aug-2017 11:34:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/inyungu/public_html/sendsms.php on line 17
+[10-Apr-2018 08:44:55 UTC] PHP Warning:  file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/inyungu/public_html/sender.php on line 65
+[10-Apr-2018 08:44:55 UTC] PHP Warning:  file(http://...@&amp;type=1&amp;dlr=1&amp;destination=250788833582&amp;source=InyunguLtd.&amp;message=Murakoze+gutumiza+amagi.Murahabwa+igisubizo+mukanya.+Ijambo+ry+ibanga+ryanyu+muzajya+mukoresha+ni+dm2m1dn4): failed to open stream: no suitable wrapper could be found in /home/inyungu/public_html/sender.php on line 65
+[19-Apr-2018 09:44:18 UTC] PHP Warning:  file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/inyungu/public_html/sender.php on line 65
+[19-Apr-2018 09:44:18 UTC] PHP Warning:  file(http://...@&amp;type=1&amp;dlr=1&amp;destination=250784968343&amp;source=InyunguLtd.&amp;message=Murakoze+gutumiza+inanasi.Murahabwa+igisubizo+mukanya.+Ijambo+ry+ibanga+ryanyu+muzajya+mukoresha+ni+okqsoczg): failed to open stream: no suitable wrapper could be found in /home/inyungu/public_html/sender.php on line 65
+[24-Apr-2018 08:20:49 UTC] PHP Warning:  file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/inyungu/public_html/sender.php on line 65
+[24-Apr-2018 08:20:49 UTC] PHP Warning:  file(http://...@&amp;type=1&amp;dlr=1&amp;destination=250788304196&amp;source=InyunguLtd.&amp;message=Murakoze+gutumiza+.Murahabwa+igisubizo+mukanya.+Ijambo+ry+ibanga+ryanyu+muzajya+mukoresha+ni+mnwoi5c8): failed to open stream: no suitable wrapper could be found in /home/inyungu/public_html/sender.php on line 65
+[11-May-2018 09:14:21 UTC] PHP Warning:  file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/inyungu/public_html/sender.php on line 65
+[11-May-2018 09:14:21 UTC] PHP Warning:  file(http://...@&amp;type=1&amp;dlr=1&amp;destination=250788711111&amp;source=InyunguLtd.&amp;message=Murakoze+gutumiza+amatunda.Murahabwa+igisubizo+mukanya.+Ijambo+ry+ibanga+ryanyu+muzajya+mukoresha+ni+y1ee9sxk): failed to open stream: no suitable wrapper could be found in /home/inyungu/public_html/sender.php on line 65
